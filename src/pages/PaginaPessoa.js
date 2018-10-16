@@ -9,6 +9,7 @@ import axios from "axios"; /* agora ja tenho acesso ao objeto axios
 AXIOS - É COMO A CHAMADA "AJAX" - CHAMADA DE PROMISE
 O CALLBACK ("success:") - É O ".then"
 "error:" - ".rejected"
+teste comentado
 */
 
 export default class PaginaPessoa extends React.Component {
